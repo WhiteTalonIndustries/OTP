@@ -1,3 +1,6 @@
+***Use otpv2.py it is a standalone single file now***
+
+
 INSTALLATION:
 Create a directory where you wish to generate the Onetime Pad.
 Save the three python files im that directory.
